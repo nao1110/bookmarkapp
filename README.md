@@ -10,8 +10,8 @@ PHP×MySQLで作る備忘録ブックマークアプリ
 https://gsacademy.sakura.ne.jp/bookmark/login.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
-- ID: なし（新規登録で自由に作成可能）
-- PW: なし（新規登録で自由に作成可能）
+- ID: TEST
+- PW: test
 
 ## ⑤工夫した点・こだわった点
 - PHP＋MySQLで基本的なCRUD（登録・表示・編集・削除）を実装
